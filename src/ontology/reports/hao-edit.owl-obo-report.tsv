@@ -1,0 +1,252 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	adult	IAO:0000115	.
+ERROR	duplicate_definition	egg	IAO:0000115	.
+ERROR	duplicate_definition	larva	IAO:0000115	.
+ERROR	duplicate_label	width	rdfs:label	width
+ERROR	duplicate_label	width	rdfs:label	width
+ERROR	duplicate_label	thorax	rdfs:label	thorax
+ERROR	duplicate_label	thorax	rdfs:label	thorax
+ERROR	duplicate_label	subantennal groove	rdfs:label	subantennal groove
+ERROR	duplicate_label	subantennal groove	rdfs:label	subantennal groove
+ERROR	duplicate_label	seta	rdfs:label	seta
+ERROR	duplicate_label	seta	rdfs:label	seta
+ERROR	duplicate_label	orbital carina	rdfs:label	orbital carina
+ERROR	duplicate_label	orbital carina	rdfs:label	orbital carina
+ERROR	duplicate_label	odontoidea	rdfs:label	odontoidea
+ERROR	duplicate_label	odontoidea	rdfs:label	odontoidea
+ERROR	duplicate_label	occipital margin	rdfs:label	occipital margin
+ERROR	duplicate_label	occipital margin	rdfs:label	occipital margin
+ERROR	duplicate_label	mucro	rdfs:label	mucro
+ERROR	duplicate_label	mucro	rdfs:label	mucro
+ERROR	duplicate_label	metasomal spiracle	rdfs:label	metasomal spiracle
+ERROR	duplicate_label	metasomal spiracle	rdfs:label	metasomal spiracle
+ERROR	duplicate_label	metapostnotum	rdfs:label	metapostnotum
+ERROR	duplicate_label	metapostnotum	rdfs:label	metapostnotum
+ERROR	duplicate_label	metapleural sulcus	rdfs:label	metapleural sulcus
+ERROR	duplicate_label	metapleural sulcus	rdfs:label	metapleural sulcus
+ERROR	duplicate_label	mesosoma height	rdfs:label	mesosoma height
+ERROR	duplicate_label	mesosoma height	rdfs:label	mesosoma height
+ERROR	duplicate_label	mesopleural pit	rdfs:label	mesopleural pit
+ERROR	duplicate_label	mesopleural pit	rdfs:label	mesopleural pit
+ERROR	duplicate_label	mandibular condyle	rdfs:label	mandibular condyle
+ERROR	duplicate_label	mandibular condyle	rdfs:label	mandibular condyle
+ERROR	duplicate_label	ligula	rdfs:label	ligula
+ERROR	duplicate_label	ligula	rdfs:label	ligula
+ERROR	duplicate_label	lateral propodeal carina	rdfs:label	lateral propodeal carina
+ERROR	duplicate_label	lateral propodeal carina	rdfs:label	lateral propodeal carina
+ERROR	duplicate_label	head+mesosoma length	rdfs:label	head+mesosoma length
+ERROR	duplicate_label	head+mesosoma length	rdfs:label	head+mesosoma length
+ERROR	duplicate_label	galeal comb	rdfs:label	galeal comb
+ERROR	duplicate_label	galeal comb	rdfs:label	galeal comb
+ERROR	duplicate_label	frontal line	rdfs:label	frontal line
+ERROR	duplicate_label	frontal line	rdfs:label	frontal line
+ERROR	duplicate_label	frontal carina	rdfs:label	frontal carina
+ERROR	duplicate_label	frontal carina	rdfs:label	frontal carina
+ERROR	duplicate_label	dorsal pronotal corner	rdfs:label	dorsal pronotal corner
+ERROR	duplicate_label	dorsal pronotal corner	rdfs:label	dorsal pronotal corner
+ERROR	duplicate_label	dorsal plate	rdfs:label	dorsal plate
+ERROR	duplicate_label	dorsal plate	rdfs:label	dorsal plate
+ERROR	duplicate_label	dorsal head width	rdfs:label	dorsal head width
+ERROR	duplicate_label	dorsal head width	rdfs:label	dorsal head width
+ERROR	duplicate_label	coeloconic sensillum	rdfs:label	coeloconic sensillum
+ERROR	duplicate_label	coeloconic sensillum	rdfs:label	coeloconic sensillum
+ERROR	duplicate_label	appendage segment	rdfs:label	appendage segment
+ERROR	duplicate_label	appendage segment	rdfs:label	appendage segment
+ERROR	duplicate_label	acetabular carina	rdfs:label	acetabular carina
+ERROR	duplicate_label	acetabular carina	rdfs:label	acetabular carina
+WARN	missing_obsolete_label	DEPRECATED anatomical entity	rdfs:label	DEPRECATED anatomical entity
+WARN	missing_obsolete_label	DEPRECATED anatomical structure	rdfs:label	DEPRECATED anatomical structure
+WARN	missing_obsolete_label	DEPRECATED portion of organism substance	rdfs:label	DEPRECATED portion of organism substance
+WARN	missing_obsolete_label	DEPRECATED anatomical space	rdfs:label	DEPRECATED anatomical space
+WARN	missing_obsolete_label	DEPRECATED material anatomical entity	rdfs:label	DEPRECATED material anatomical entity
+WARN	missing_obsolete_label	DEPRECATED immaterial anatomical entity	rdfs:label	DEPRECATED immaterial anatomical entity
+WARN	missing_obsolete_label	DEPRECATED anatomical line	rdfs:label	DEPRECATED anatomical line
+WARN	missing_obsolete_label	DEPRECATED anatomical point	rdfs:label	DEPRECATED anatomical point
+WARN	missing_obsolete_label	DEPRECATED anatomical surface	rdfs:label	DEPRECATED anatomical surface
+WARN	missing_obsolete_label	DEPRECATED anatomical system	rdfs:label	DEPRECATED anatomical system
+WARN	missing_obsolete_label	DEPRECATED multi-cellular organism	rdfs:label	DEPRECATED multi-cellular organism
+WARN	missing_obsolete_label	DEPRECATED cell	rdfs:label	DEPRECATED cell
+WARN	missing_obsolete_label	DEPRECATED cell component	rdfs:label	DEPRECATED cell component
+WARN	missing_obsolete_label	DEPRECATED compound organ component	rdfs:label	DEPRECATED compound organ component
+WARN	missing_obsolete_label	DEPRECATED simple organ	rdfs:label	DEPRECATED simple organ
+WARN	missing_obsolete_label	DEPRECATED compound organ	rdfs:label	DEPRECATED compound organ
+WARN	missing_obsolete_label	DEPRECATED male organism	rdfs:label	DEPRECATED male organism
+WARN	missing_obsolete_label	DEPRECATED female organism	rdfs:label	DEPRECATED female organism
+WARN	missing_obsolete_label	DEPRECATED hermaphroditic organism	rdfs:label	DEPRECATED hermaphroditic organism
+WARN	missing_obsolete_label	DEPRECATED organism subdivision	rdfs:label	DEPRECATED organism subdivision
+WARN	missing_obsolete_label	DEPRECATED acellular anatomical structure	rdfs:label	DEPRECATED acellular anatomical structure
+WARN	missing_obsolete_label	DEPRECATED anatomical cluster	rdfs:label	DEPRECATED anatomical cluster
+WARN	missing_obsolete_label	DEPRECATED extraembryonic structure	rdfs:label	DEPRECATED extraembryonic structure
+WARN	missing_obsolete_label	DEPRECATED portion of tissue	rdfs:label	DEPRECATED portion of tissue
+WARN	missing_obsolete_label	DEPRECATED sequential hermaphroditic organism	rdfs:label	DEPRECATED sequential hermaphroditic organism
+WARN	missing_obsolete_label	DEPRECATED synchronous hermaphroditic organism	rdfs:label	DEPRECATED synchronous hermaphroditic organism
+WARN	missing_obsolete_label	DEPRECATED gonochoristic organism	rdfs:label	DEPRECATED gonochoristic organism
+WARN	missing_obsolete_label	DEPRECATED protandrous hermaphroditic organism	rdfs:label	DEPRECATED protandrous hermaphroditic organism
+WARN	missing_obsolete_label	DEPRECATED protogynous hermaphroditic organism	rdfs:label	DEPRECATED protogynous hermaphroditic organism
+WARN	missing_obsolete_label	DEPRECATED anatomical group	rdfs:label	DEPRECATED anatomical group
+WARN	missing_obsolete_label	DEPRECATED multi-tissue structure	rdfs:label	DEPRECATED multi-tissue structure
+WARN	missing_obsolete_label	DEPRECATED portion of cell substance	rdfs:label	DEPRECATED portion of cell substance
+WARN	missing_obsolete_label	single cell organism	rdfs:label	single cell organism
+WARN	missing_obsolete_label	DEPRECATED epithelium	rdfs:label	DEPRECATED epithelium
+WARN	missing_obsolete_label	DEPRECATED simple cuboidal epithelium	rdfs:label	DEPRECATED simple cuboidal epithelium
+WARN	missing_obsolete_label	DEPRECATED simple columnar epithelium	rdfs:label	DEPRECATED simple columnar epithelium
+WARN	missing_obsolete_label	DEPRECATED multilaminar epithelium	rdfs:label	DEPRECATED multilaminar epithelium
+WARN	missing_obsolete_label	DEPRECATED simple squamous epithelium	rdfs:label	DEPRECATED simple squamous epithelium
+WARN	missing_obsolete_label	DEPRECATED atypical epithelium	rdfs:label	DEPRECATED atypical epithelium
+WARN	missing_obsolete_label	DEPRECATED cavitated compound organ	rdfs:label	DEPRECATED cavitated compound organ
+WARN	missing_obsolete_label	DEPRECATED unilaminar epithelium	rdfs:label	DEPRECATED unilaminar epithelium
+WARN	missing_obsolete_label	DEPRECATED solid compound organ	rdfs:label	DEPRECATED solid compound organ
+WARN	missing_obsolete_label	accessory ventral condyle	rdfs:label	accessory ventral condyle
+WARN	missing_obsolete_label	aculea	rdfs:label	aculea
+WARN	missing_obsolete_label	DEPRECATED adult tagma	rdfs:label	DEPRECATED adult tagma
+WARN	missing_obsolete_label	frontal carina	rdfs:label	frontal carina
+WARN	missing_obsolete_label	anterior mesopleuro-third axillary sclerite of fore wing muscle	rdfs:label	anterior mesopleuro-third axillary sclerite of fore wing muscle
+WARN	missing_obsolete_label	DEPRECATED apodeme	rdfs:label	DEPRECATED apodeme
+WARN	missing_obsolete_label	appendage segment	rdfs:label	appendage segment
+WARN	missing_obsolete_label	DEPRECATED area	rdfs:label	DEPRECATED area
+WARN	missing_obsolete_label	auxilia	rdfs:label	auxilia
+WARN	missing_obsolete_label	basal hooklets	rdfs:label	basal hooklets
+WARN	missing_obsolete_label	basiconic capitate peg sensillum	rdfs:label	basiconic capitate peg sensillum
+WARN	missing_obsolete_label	DEPRECATED basisternum	rdfs:label	DEPRECATED basisternum
+WARN	missing_obsolete_label	calcar	rdfs:label	calcar
+WARN	missing_obsolete_label	cervical sclerite	rdfs:label	cervical sclerite
+WARN	missing_obsolete_label	cervix	rdfs:label	cervix
+WARN	missing_obsolete_label	closed coxal cavity	rdfs:label	closed coxal cavity
+WARN	missing_obsolete_label	club	rdfs:label	club
+WARN	missing_obsolete_label	coeloconic sensillum	rdfs:label	coeloconic sensillum
+WARN	missing_obsolete_label	DEPRECATED corbicula	rdfs:label	DEPRECATED corbicula
+WARN	missing_obsolete_label	DEPRECATED coronal suture	rdfs:label	DEPRECATED coronal suture
+WARN	missing_obsolete_label	crest	rdfs:label	crest
+WARN	missing_obsolete_label	crossvein	rdfs:label	crossvein
+WARN	missing_obsolete_label	dorsal cibarial dilatator muscle	rdfs:label	dorsal cibarial dilatator muscle
+WARN	missing_obsolete_label	dorsal plate	rdfs:label	dorsal plate
+WARN	missing_obsolete_label	DEPRECATED duct	rdfs:label	DEPRECATED duct
+WARN	missing_obsolete_label	empodium	rdfs:label	empodium
+WARN	missing_obsolete_label	DEPRECATED epicranial suture	rdfs:label	DEPRECATED epicranial suture
+WARN	missing_obsolete_label	DEPRECATED epidermis	rdfs:label	DEPRECATED epidermis
+WARN	missing_obsolete_label	femoral depression	rdfs:label	femoral depression
+WARN	missing_obsolete_label	fore coxa	rdfs:label	fore coxa
+WARN	missing_obsolete_label	forewing	rdfs:label	forewing
+WARN	missing_obsolete_label	frontal scrobe	rdfs:label	frontal scrobe
+WARN	missing_obsolete_label	DEPRECATED frontal suture	rdfs:label	DEPRECATED frontal suture
+WARN	missing_obsolete_label	DEPRECATED hymenopteran furca	rdfs:label	DEPRECATED hymenopteran furca
+WARN	missing_obsolete_label	DEPRECATED hymenopteran furcasternum	rdfs:label	DEPRECATED hymenopteran furcasternum
+WARN	missing_obsolete_label	genal bridge	rdfs:label	genal bridge
+WARN	missing_obsolete_label	DEPRECATED gonad	rdfs:label	DEPRECATED gonad
+WARN	missing_obsolete_label	gula	rdfs:label	gula
+WARN	missing_obsolete_label	gular ridge	rdfs:label	gular ridge
+WARN	missing_obsolete_label	gular sulcus	rdfs:label	gular sulcus
+WARN	missing_obsolete_label	hindwing	rdfs:label	hindwing
+WARN	missing_obsolete_label	hypostomal suture	rdfs:label	hypostomal suture
+WARN	missing_obsolete_label	DEPRECATED integument	rdfs:label	DEPRECATED integument
+WARN	missing_obsolete_label	interantennal process	rdfs:label	interantennal process
+WARN	missing_obsolete_label	interantennal prominence (deprecated)	rdfs:label	interantennal prominence (deprecated)
+WARN	missing_obsolete_label	labial endite	rdfs:label	labial endite
+WARN	missing_obsolete_label	labial suture	rdfs:label	labial suture
+WARN	missing_obsolete_label	lamella	rdfs:label	lamella
+WARN	missing_obsolete_label	lateral neck plate	rdfs:label	lateral neck plate
+WARN	missing_obsolete_label	lateral profurco-procoxal muscle	rdfs:label	lateral profurco-procoxal muscle
+WARN	missing_obsolete_label	median plate	rdfs:label	median plate
+WARN	missing_obsolete_label	median propodeal keel	rdfs:label	median propodeal keel
+WARN	missing_obsolete_label	mentum	rdfs:label	mentum
+WARN	missing_obsolete_label	mesopleural pit	rdfs:label	mesopleural pit
+WARN	missing_obsolete_label	mesoscutellar appendage	rdfs:label	mesoscutellar appendage
+WARN	missing_obsolete_label	DEPRECATED mesosternum	rdfs:label	DEPRECATED mesosternum
+WARN	missing_obsolete_label	mesotrochantinal plate	rdfs:label	mesotrochantinal plate
+WARN	missing_obsolete_label	metafurco-mesofurcal	rdfs:label	metafurco-mesofurcal
+WARN	missing_obsolete_label	metapostnotum	rdfs:label	metapostnotum
+WARN	missing_obsolete_label	DEPRECATED metasternum	rdfs:label	DEPRECATED metasternum
+WARN	missing_obsolete_label	DEPRECATED muscle	rdfs:label	DEPRECATED muscle
+WARN	missing_obsolete_label	DEPRECATED notopleural suture	rdfs:label	DEPRECATED notopleural suture
+WARN	missing_obsolete_label	DEPRECATED notum	rdfs:label	DEPRECATED notum
+WARN	missing_obsolete_label	occiptal condyle	rdfs:label	occiptal condyle
+WARN	missing_obsolete_label	ocular sclerite	rdfs:label	ocular sclerite
+WARN	missing_obsolete_label	odontoidea	rdfs:label	odontoidea
+WARN	missing_obsolete_label	open coxal cavity	rdfs:label	open coxal cavity
+WARN	missing_obsolete_label	oral cavity	rdfs:label	oral cavity
+WARN	missing_obsolete_label	orbital carina	rdfs:label	orbital carina
+WARN	missing_obsolete_label	penisvalvo-endophallal muscle	rdfs:label	penisvalvo-endophallal muscle
+WARN	missing_obsolete_label	DEPRECATED pharate adult	rdfs:label	DEPRECATED pharate adult
+WARN	missing_obsolete_label	DEPRECATED pit	rdfs:label	DEPRECATED pit
+WARN	missing_obsolete_label	posterior lingual plate	rdfs:label	posterior lingual plate
+WARN	missing_obsolete_label	posterior mesopleuro-third axillary sclerite of fore wing muscle	rdfs:label	posterior mesopleuro-third axillary sclerite of fore wing muscle
+WARN	missing_obsolete_label	posterior subalar pit	rdfs:label	posterior subalar pit
+WARN	missing_obsolete_label	postlabium	rdfs:label	postlabium
+WARN	missing_obsolete_label	DEPRECATED poststernite	rdfs:label	DEPRECATED poststernite
+WARN	missing_obsolete_label	prelabium	rdfs:label	prelabium
+WARN	missing_obsolete_label	DEPRECATED prepupa	rdfs:label	DEPRECATED prepupa
+WARN	missing_obsolete_label	DEPRECATED prescutum	rdfs:label	DEPRECATED prescutum
+WARN	missing_obsolete_label	DEPRECATED presternum	rdfs:label	DEPRECATED presternum
+WARN	missing_obsolete_label	DEPRECATED process	rdfs:label	DEPRECATED process
+WARN	missing_obsolete_label	pronotal cervical sulcus	rdfs:label	pronotal cervical sulcus
+WARN	missing_obsolete_label	pronotal groove	rdfs:label	pronotal groove
+WARN	missing_obsolete_label	pronoto-third axillary sclerite muscle	rdfs:label	pronoto-third axillary sclerite muscle
+WARN	missing_obsolete_label	propodeo-first metasomal spiracle muscle	rdfs:label	propodeo-first metasomal spiracle muscle
+WARN	missing_obsolete_label	pulvillum	rdfs:label	pulvillum
+WARN	missing_obsolete_label	DEPRECATED pupa	rdfs:label	DEPRECATED pupa
+WARN	missing_obsolete_label	region	rdfs:label	region
+WARN	missing_obsolete_label	DEPRECATED reproductive system	rdfs:label	DEPRECATED reproductive system
+WARN	missing_obsolete_label	DEPRECATED salivarial orifice	rdfs:label	DEPRECATED salivarial orifice
+WARN	missing_obsolete_label	scutellar sulcus	rdfs:label	scutellar sulcus
+WARN	missing_obsolete_label	second dorsal diagonal muscle	rdfs:label	second dorsal diagonal muscle
+WARN	missing_obsolete_label	DEPRECATED sense organ	rdfs:label	DEPRECATED sense organ
+WARN	missing_obsolete_label	seta	rdfs:label	seta
+WARN	missing_obsolete_label	DEPRECATED spina	rdfs:label	DEPRECATED spina
+WARN	missing_obsolete_label	DEPRECATED spinasternum	rdfs:label	DEPRECATED spinasternum
+WARN	missing_obsolete_label	DEPRECATED spur	rdfs:label	DEPRECATED spur
+WARN	missing_obsolete_label	DEPRECATED sternum	rdfs:label	DEPRECATED sternum
+WARN	missing_obsolete_label	stylet	rdfs:label	stylet
+WARN	missing_obsolete_label	sucking pump	rdfs:label	sucking pump
+WARN	missing_obsolete_label	DEPRECATED tendon	rdfs:label	DEPRECATED tendon
+WARN	missing_obsolete_label	DEPRECATED tentorial pit	rdfs:label	DEPRECATED tentorial pit
+WARN	missing_obsolete_label	transscutal line	rdfs:label	transscutal line
+WARN	missing_obsolete_label	valvula	rdfs:label	valvula
+WARN	missing_obsolete_label	DEPRECATED procoxal muscle	rdfs:label	DEPRECATED procoxal muscle
+WARN	missing_obsolete_label	DEPRECATED thoracic muscle	rdfs:label	DEPRECATED thoracic muscle
+WARN	missing_obsolete_label	DEPRECATED abdominal muscle	rdfs:label	DEPRECATED abdominal muscle
+WARN	missing_obsolete_label	HAO old anepimeron	rdfs:label	HAO old anepimeron
+WARN	missing_obsolete_label	cercal bristle	rdfs:label	cercal bristle
+WARN	missing_obsolete_label	DEPRECATED scutellum	rdfs:label	DEPRECATED scutellum
+WARN	missing_obsolete_label	articular membrane of the mesotibio-mesobasitarsal muscle	rdfs:label	articular membrane of the mesotibio-mesobasitarsal muscle
+WARN	missing_obsolete_label	DEPRECATED articular membrane	rdfs:label	DEPRECATED articular membrane
+WARN	missing_obsolete_label	DEPRECATED metapectus	rdfs:label	DEPRECATED metapectus
+WARN	missing_obsolete_label	metapleuron	rdfs:label	metapleuron
+WARN	missing_obsolete_label	mandibular condyle	rdfs:label	mandibular condyle
+WARN	missing_obsolete_label	DEPRECATED articular surface	rdfs:label	DEPRECATED articular surface
+WARN	missing_obsolete_label	DEPRECATED articular membrane of the protibio-probasitarsal joint	rdfs:label	DEPRECATED articular membrane of the protibio-probasitarsal joint
+WARN	missing_obsolete_label	DEPRECATED groove	rdfs:label	DEPRECATED groove
+WARN	missing_obsolete_label	DEPRECATED articular membrane of the mesotibio-mesobasitarsal joint	rdfs:label	DEPRECATED articular membrane of the mesotibio-mesobasitarsal joint
+WARN	missing_obsolete_label	DEPRECATED adipose system	rdfs:label	DEPRECATED adipose system
+WARN	missing_obsolete_label	DEPRECATED digestive system	rdfs:label	DEPRECATED digestive system
+WARN	missing_obsolete_label	DEPRECATED central nervous system	rdfs:label	DEPRECATED central nervous system
+WARN	missing_obsolete_label	DEPRECATED circulatory system	rdfs:label	DEPRECATED circulatory system
+WARN	missing_obsolete_label	DEPRECATED organ system	rdfs:label	DEPRECATED organ system
+WARN	missing_obsolete_label	third axillary sclerite	rdfs:label	third axillary sclerite
+WARN	missing_obsolete_label	sublateral groove	rdfs:label	sublateral groove
+WARN	missing_obsolete_label	subcoxa	rdfs:label	subcoxa
+WARN	missing_obsolete_label	DEPRECATED scutum	rdfs:label	DEPRECATED scutum
+WARN	missing_obsolete_label	pronotal disc	rdfs:label	pronotal disc
+WARN	missing_obsolete_label	DEPRECATED metacoxal muscle	rdfs:label	DEPRECATED metacoxal muscle
+WARN	missing_obsolete_label	DEPRECATED multiporous plate	rdfs:label	DEPRECATED multiporous plate
+WARN	missing_obsolete_label	DEPRECATED nervous system	rdfs:label	DEPRECATED nervous system
+WARN	missing_obsolete_label	DEPRECATED mesocoxal muscle	rdfs:label	DEPRECATED mesocoxal muscle
+WARN	missing_obsolete_label	prealare	rdfs:label	prealare
+WARN	missing_obsolete_label	DEPRECATED skeletal muscle	rdfs:label	DEPRECATED skeletal muscle
+WARN	missing_obsolete_label	DEPRECATED cuticular evagination	rdfs:label	DEPRECATED cuticular evagination
+WARN	missing_obsolete_label	DEPRECATED cardo	rdfs:label	DEPRECATED cardo
+WARN	missing_obsolete_label	DEPRECATED anatomical region	rdfs:label	DEPRECATED anatomical region
+WARN	missing_obsolete_label	DEPRECATED cuticular invagination	rdfs:label	DEPRECATED cuticular invagination
+WARN	missing_obsolete_label	DEPRECATED semen	rdfs:label	DEPRECATED semen
+WARN	missing_obsolete_label	T9	rdfs:label	T9
+WARN	missing_obsolete_label	DEPRECATED ligament	rdfs:label	DEPRECATED ligament
+WARN	missing_obsolete_label	DEPRECATED labial palpomere	rdfs:label	DEPRECATED labial palpomere
+WARN	missing_obsolete_label	mesosoma height	rdfs:label	mesosoma height
+WARN	missing_obsolete_label	head+mesosoma length	rdfs:label	head+mesosoma length
+WARN	missing_obsolete_label	DEPRECATED angle	rdfs:label	DEPRECATED angle
+WARN	missing_obsolete_label	DEPRECATED arithmetic mean	rdfs:label	DEPRECATED arithmetic mean
+WARN	missing_obsolete_label	DEPRECATED portion of epithelium	rdfs:label	DEPRECATED portion of epithelium
+INFO	lowercase_definition	adult	IAO:0000115	.
+INFO	lowercase_definition	egg	IAO:0000115	.
+INFO	lowercase_definition	larva	IAO:0000115	.
+INFO	lowercase_definition	posterior area of the second valvifer	IAO:0000115	the area of the second valvifer that is posterior to the anatomical line that is the shortest distance from the first valviferal fossa of the second valvifer to the ventral margin of the second valvifer
+INFO	missing_superclass	palpal formula	rdfs:subClassOf	
