@@ -1,4 +1,4 @@
-Prefix(:=<http://purl.obolibrary.org/obo/hao2.owl#>)
+Prefix(:=<http://purl.obolibrary.org/obo/hao.owl#>)
 Prefix(HAO:=<http://purl.obolibrary.org/obo/HAO#>)
 Prefix(obo:=<http://purl.obolibrary.org/obo/>)
 Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
@@ -22,7 +22,7 @@ Prefix(oboInOwl:=<ttp://www.geneontology.org/formats/oboInOwl#>)
 Prefix(ncbitaxon:=<http://purl.obolibrary.org/obo/ncbitaxon#>)
 
 
-Ontology(<http://purl.obolibrary.org/obo/hao2.owl>
+Ontology(<http://purl.obolibrary.org/obo/hao.owl>
 Import(<http://purl.obolibrary.org/obo/hao/imports/aism_import.owl>)
 Annotation(dcterms:contributor "Davide Dal Pos (DDP) https://orcid.org/0000-0002-9122-934X")
 Annotation(dcterms:contributor "István Mikó (IM) https://orcid.org/0000-0003-2938-9075")
