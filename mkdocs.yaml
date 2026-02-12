@@ -1,0 +1,25 @@
+site_name: Hymenoptera Anatomyu Ontology
+theme: readthedocs
+nav:
+  - Getting started: index.md
+  - Tour:
+      - Exploring HAO: exploring.md
+      - Placing HAO ontologies under AISM: obo-bridge.md
+      - Using HAO: using-hao.md
+      - Integration Tests: integration-tests.md
+      - Editors Readme: editors.md
+  - How-to guides:
+      - Standard ODK workflows:
+          - Overview: odk-workflows/index.md
+          - Editors Workflow: odk-workflows/EditorsWorkflow.md
+          - Release Workflow: odk-workflows/ReleaseWorkflow.md
+          - Manage your ODK Repository: odk-workflows/RepoManagement.md
+          - Setting up Docker for ODK: odk-workflows/SettingUpDockerForODK.md
+          - Imports management: odk-workflows/UpdateImports.md
+          - Managing the documentation: odk-workflows/ManageDocumentation.md
+          - Continuous Integration: odk-workflows/ContinuousIntegration.md
+          - Your ODK Repository Overview: odk-workflows/RepositoryFileStructure.md 
+      - Contributing: contributing.md
+  - Other:
+      - Cite: cite.md
+      - History: history.md
